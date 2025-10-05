@@ -1,0 +1,3 @@
+pacote: com.app.defesa
+receber alerta em  com.app.defesa
+print(alert)
